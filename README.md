@@ -9,6 +9,9 @@
 - SQL
 - R
 - Python
+  <a href="https://www.python.org/">
+  <img src="https://github.com/user-attachments/assets/cd7f63ef-7cd4-484e-b320-6e8d09b48eed" alt="Python Icon" width="30" height="30">
+</a>
 [![Python](https://github.com/user-attachments/assets/cd7f63ef-7cd4-484e-b320-6e8d09b48eed)](https://www.python.org/)
 
 
