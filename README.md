@@ -6,6 +6,8 @@
 - ⚡ Tou can contact me at bcc3110@gmail.com
 
 ## Skills
-![Pattern Coupon](https://github.com/user-attachments/assets/29875ab3-f3fa-4f27-959e-e8cfd1ffd9c6)
+[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
+
+[![GitHub Profile](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/YOUR_USERNAME)
 
           
