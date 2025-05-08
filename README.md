@@ -6,9 +6,9 @@
 - ⚡ You can contact me at bcc3110@gmail.com
 
 ## Skills
-SQL
-R
-Python
+- SQL
+- R
+- Python
 
 
 ## Badges
