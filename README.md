@@ -9,17 +9,8 @@
 - SQL
 - R
 - Python
-  <p align="left">
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-    <img src="icons/sql-logo.svg" alt="SQL Icon" width="30" height="30" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="icons/r-logo.svg" alt="R Icon" width="30" height="30" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="icons/python-logo.svg" alt="Python Icon" width="30" height="30" />
-  </a>
-</p>
+[![Python](https://github.com/user-attachments/assets/cd7f63ef-7cd4-484e-b320-6e8d09b48eed)](https://www.python.org/)
+
 
 
 
