@@ -8,7 +8,7 @@ The goal is to gain in-depth business insights to develop strategies such as pro
 - ⚡ Tou can contact me at bcc3110@gmail.com
 
 ## Skill
-https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-only.svg/600px-Python-logo-only.svg.png
+url : https://www.python.org/
 <!--
 **Chayanonboo/Chayanonboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
