@@ -12,9 +12,10 @@
 <a href="https://www.r-project.org/">
   <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R Icon" width="30" height="30">
 </a>
-<a href="[https://www.r-project.org/](https://sqliteonline.com/)">
-  <img src="![image](https://github.com/user-attachments/assets/4e49ba3c-47ee-4968-90b1-3a015b2f0c30)" alt="SQL Icon" width="30" height="30">
-</a>
+  <a href="[URL ของเว็บไซต์ SQL](https://sqliteonline.com/)">
+    <img src![image](https://github.com/user-attachments/assets/9e49d04a-3327-4dd9-99a4-e0de50ef4e49)" alt="SQL Icon" width="30" height="30">
+  </a>
+
 
 
 
