@@ -8,7 +8,8 @@
 ## Skills
 - SQL
 - R
-- Python
+- Python ![Uploading image.png…]()
+
 
 
 ## Badges
