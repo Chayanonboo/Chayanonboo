@@ -9,7 +9,9 @@
   <a href="https://www.python.org/">
   <img src="https://github.com/user-attachments/assets/cd7f63ef-7cd4-484e-b320-6e8d09b48eed" alt="Python Icon" width="30" height="30">
 </a>
-
+<a href="https://www.r-project.org/">
+  <img src="https://www.reddit.com/r/graphic_design/comments/17x4td1/how_to_fit_an_image_inside_the_shape_of_another/?tl=th" alt="R Icon" width="30" height="30">
+</a>
 
 
 
