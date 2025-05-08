@@ -15,8 +15,10 @@
 <a href="https://sqliteonline.com/">
   <img src="https://github.com/user-attachments/assets/9e49d04a-3327-4dd9-99a4-e0de50ef4e49" alt="SQL Icon" width="30" height="30">
 </a>
-
-
+## Social
+<a href="[https://sqliteonline.com/](https://www.linkedin.com/in/chayanon-boonthanom/)">
+  <img src="![image](https://github.com/user-attachments/assets/5dad619c-17a0-4eba-af56-9c8164c29e15)" alt="LinkedIn Icon" width="30" height="30">
+</a>
 
 
 ## Badges
