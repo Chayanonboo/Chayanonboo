@@ -6,6 +6,7 @@
 - ⚡ Tou can contact me at bcc3110@gmail.com
 
 ## Skills
-https://pypi.org
+pypiBaseUrl string
+Example: https://pypi.org
 
           
