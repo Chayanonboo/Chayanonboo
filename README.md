@@ -6,6 +6,9 @@ The goal is to gain in-depth business insights to develop strategies such as pro
 - 🔭 I’m based in Bangkok, Thailand
 - 🖥️ My Portfolio is [Wordpress](https://chayanonboo.com/)
 - ⚡ Tou can contact me at bcc3110@gmail.com
+
+## Skill
+PythonrlangMySQL
 <!--
 **Chayanonboo/Chayanonboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
