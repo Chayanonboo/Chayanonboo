@@ -1,7 +1,8 @@
 ## Hi 👋 My Name is Chayanon Boonthanom.
 I graduated from Statistics in Faculty of Science and Technology,Thammasat University.
-I studied Statistics which I enjoy mathematics, risk management and analyze data. I think these qualities could be beneficial for me to work and contribute my knowledge and skills in data analyst. 
-My personal goal is to have benefit for leading the firm to be successful.
+Currently, I work as a Data Analyst to analyze organizational data, focusing on performance and sales figures from various companies. 
+The goal is to gain in-depth business insights to develop strategies such as promoting high-value customers and creating impactful campaigns that benefit our client.
+
 <!--
 **Chayanonboo/Chayanonboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
