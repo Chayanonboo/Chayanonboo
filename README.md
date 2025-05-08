@@ -11,7 +11,7 @@
 ## Badges
 My GitHub Stats
 
-[![Chayanonboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chayanonboo)](https://github.com/Chayanonboo&show_icons=true&theme=radical)
+[![Chayanonboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chayanonboo&show_icons=true&theme=radical)](https://github.com/Chayanonboo)
 
 
           
