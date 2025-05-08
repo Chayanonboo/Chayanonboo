@@ -6,7 +6,7 @@
 - ⚡ Tou can contact me at bcc3110@gmail.com
 
 ## Skills
-pypiBaseUrl string
-Example: https://pypi.org
+https://img.shields.io/pypi/pyversions/:packageName
+
 
           
