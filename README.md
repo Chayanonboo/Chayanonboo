@@ -9,7 +9,8 @@
 
 ## Badges
 My GitHub Stats
-[![Chayanonboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chayanonboo)](https://[github.com/Chayanonboonthanom](https://github.com/Chayanonboo)/github-readme-stats)
+
+[![Chayanonboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chayanonboo)](https://github.com/Chayanonboo)/github-readme-stats)
 
 
           
