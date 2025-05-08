@@ -6,11 +6,10 @@
 - ⚡ You can contact me at bcc3110@gmail.com
 
 ## Skills
-<h3 align="center">A passionate frontend developer from India</h3>
+SQL
+R
+Python
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ## Badges
 My GitHub Stats
