@@ -6,6 +6,7 @@
 - ⚡ You can contact me at bcc3110@gmail.com
 
 ## Skills
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 ## Badges
 My GitHub Stats
