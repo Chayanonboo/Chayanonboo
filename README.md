@@ -8,7 +8,18 @@
 ## Skills
 - SQL
 - R
-- Python ![Uploading image.png…]()
+- Python
+  <p align="left">
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+    <img src="icons/sql-logo.svg" alt="SQL Icon" width="30" height="30" />
+  </a>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="icons/r-logo.svg" alt="R Icon" width="30" height="30" />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="icons/python-logo.svg" alt="Python Icon" width="30" height="30" />
+  </a>
+</p>
 
 
 
