@@ -17,8 +17,8 @@
 </a>
 
 ## Social
-<a href="[https://sqliteonline.com/](https://www.linkedin.com/in/chayanon-boonthanom/)">
-  <img src="![image](https://github.com/user-attachments/assets/5dad619c-17a0-4eba-af56-9c8164c29e15)" alt="LinkedIn Icon" width="30" height="30">
+<a href="https://www.linkedin.com/in/chayanon-boonthanom/">
+  <img src="https://github.com/user-attachments/assets/5dad619c-17a0-4eba-af56-9c8164c29e15" alt="LinkedIn Icon" width="30" height="30">
 </a>
 
 
