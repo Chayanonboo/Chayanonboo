@@ -6,5 +6,6 @@
 - ⚡ Tou can contact me at bcc3110@gmail.com
 
 ## Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+![Pattern Coupon](https://github.com/user-attachments/assets/29875ab3-f3fa-4f27-959e-e8cfd1ffd9c6)
+
           
