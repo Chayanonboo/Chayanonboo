@@ -8,4 +8,4 @@ The goal is to gain in-depth business insights to develop strategies such as pro
 - ⚡ Tou can contact me at bcc3110@gmail.com
 
 ## Skills
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Python Icon]([URL_ของ_รูปภาพ_Python_Icon](https://en.m.wikipedia.org/wiki/File:Python-logo-notext.svg))](https://www.python.org/)
