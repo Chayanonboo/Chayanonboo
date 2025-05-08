@@ -7,8 +7,11 @@ The goal is to gain in-depth business insights to develop strategies such as pro
 - 🖥️ My Portfolio is [Wordpress](https://chayanonboo.com/)
 - ⚡ Tou can contact me at bcc3110@gmail.com
 
-## Skill
+## Skills
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 <!--
 **Chayanonboo/Chayanonboo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
