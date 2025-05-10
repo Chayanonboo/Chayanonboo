@@ -27,5 +27,5 @@ My GitHub Stats
 
 [![Chayanonboo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chayanonboo&show_icons=true&theme=tokyonight)](https://github.com/Chayanonboo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&show_icons=true&theme=tokyonight)](https://github.com/Chayanonboo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chayanonboo&show_icons=true&theme=tokyonight)](https://github.com/Chayanonboo/github-readme-stats)
           
